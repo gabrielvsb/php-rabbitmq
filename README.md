@@ -6,6 +6,7 @@ Tenha certeza que voê tenha o docker instalado, e rode o seguinte comando no ter
 
 ```docker-compose up --build -d```
 
+Obs.: é necessário atualizar as credenciais no arquivo .env de acordo com a sua instalação.
 
 ## Gerenciando RabbitMQ
 Entre no plugin gerenciador do rabbitmq, utilizando a URL:
